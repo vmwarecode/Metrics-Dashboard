@@ -1,0 +1,218 @@
+{
+   "dashboards": [{
+      "autoswitchEnabled": false,
+      "columnCount": 1,
+      "columnProportion": "1",
+      "creationTime": 1579227444592,
+      "dashboardNavigations": {},
+      "description": "",
+      "disabled": false,
+      "gridsterMaxColumns": 12,
+      "hidden": false,
+      "homeTab": false,
+      "id": "2b0861de-5300-4aa4-a566-1433eea21c06",
+      "importAttempts": 0,
+      "importComplete": true,
+      "isDefault": false,
+      "locked": false,
+      "name": "Metrics Dashboard",
+      "rank": 126,
+      "shared": false,
+      "states": [],
+      "temporary": false,
+      "userId": "018e2783-5a7e-47ab-837e-656c6277b48f",
+      "widgetInteractions": [
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "f0cdc6f4-38cc-4441-b9e1-861722c26cda",
+            "widgetIdReceiver": "ab33758d-f4d1-4776-9806-b272c55d54a4"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "f0cdc6f4-38cc-4441-b9e1-861722c26cda",
+            "widgetIdReceiver": "b7d87f77-b67d-495f-9e74-f0af3d204041"
+         },
+         {
+            "type": "metricId",
+            "widgetIdProvider": "b7d87f77-b67d-495f-9e74-f0af3d204041",
+            "widgetIdReceiver": "1d5faceb-1c58-4912-b0fb-daf098a34b3d"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "f0cdc6f4-38cc-4441-b9e1-861722c26cda",
+            "widgetIdReceiver": "d3b5c978-e819-49c2-8ab0-c05b382622de"
+         }
+      ],
+      "widgets": [
+         {
+            "collapsed": false,
+            "config": {
+               "additionalColumns": [],
+               "customFilter": {
+                  "excludedResources": null,
+                  "filter": [],
+                  "includedResources": null
+               },
+               "depth": 1,
+               "filterMode": "tagPicker",
+               "mode": "all",
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": 0},
+               "resource": [],
+               "selectFirstRow": {"selectFirstRow": true},
+               "selfProvider": {"selfProvider": true},
+               "tagFilter": null,
+               "title": "Select Object"
+            },
+            "gridsterCoords": {
+               "h": 14,
+               "w": 2,
+               "x": 1,
+               "y": 1
+            },
+            "height": 780,
+            "id": "f0cdc6f4-38cc-4441-b9e1-861722c26cda",
+            "states": [
+               {
+                  "key": "permResGrid_widget_2b0861de-5300-4aa4-a566-1433eea21c06_f0cdc6f4-38cc-4441-b9e1-861722c26cda",
+                  "value": "o%3Acolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah2%25255Ewidth%25253Dn%2525253A167%255Eo%25253Aid%25253Ds%2525253Ah3%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah4%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah5%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A298%255Eo%25253Aid%25253Ds%2525253Ah6%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah7%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah8%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah9%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah10%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah11%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah12%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah13%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah14%25255Ehidden%25253Db%2525253A0%25255Ewidth%25253Dn%2525253A92%255Eo%25253Aid%25253Ds%2525253Ah15%25255Ehidden%25253Db%2525253A0%25255Ewidth%25253Dn%2525253A98%255Eo%25253Aid%25253Ds%2525253Ah16%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah17%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah18%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah19%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah20%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah21%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah22%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah23%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah24%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah25%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah26%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah27%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah28%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah29%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah30%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah31%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah32%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah33%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah34%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah35%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah36%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah37%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah38%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah39%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah40%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah41%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah42%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah43%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah44%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah45%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah46%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%5EstoreState%3Do%253Asorters%253Da%25253Ao%2525253Aroot%2525253Ds%252525253Adata%2525255Eproperty%2525253Ds%252525253AresourceKind%2525255Edirection%2525253Ds%252525253AASC%2525255Eid%2525253Ds%252525253AresourceKind"
+               },
+               {
+                  "key": "perm_toolbarVisible_widget_2b0861de-5300-4aa4-a566-1433eea21c06_f0cdc6f4-38cc-4441-b9e1-861722c26cda",
+                  "value": "b%3A1"
+               }
+            ],
+            "title": "Select Object",
+            "type": "ResourceList"
+         },
+         {
+            "collapsed": false,
+            "config": {},
+            "gridsterCoords": {
+               "h": 8,
+               "w": 2,
+               "x": 11,
+               "y": 7
+            },
+            "height": 438,
+            "id": "ab33758d-f4d1-4776-9806-b272c55d54a4",
+            "title": "Top Alerts",
+            "type": "ProblemAlertsList"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "title": "Choose Metrics (Can be more than one)"
+            },
+            "gridsterCoords": {
+               "h": 14,
+               "w": 2,
+               "x": 3,
+               "y": 1
+            },
+            "height": 780,
+            "id": "b7d87f77-b67d-495f-9e74-f0af3d204041",
+            "states": [
+               {
+                  "key": "permFetchCommonMetrics_permMetricPicker_widget_2b0861de-5300-4aa4-a566-1433eea21c06_b7d87f77-b67d-495f-9e74-f0af3d204041",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "permMetricPicker_widget_2b0861de-5300-4aa4-a566-1433eea21c06_b7d87f77-b67d-495f-9e74-f0af3d204041",
+                  "value": "o%3Acolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1"
+               },
+               {
+                  "key": "permFetchCollectingMetrics_permMetricPicker_widget_2b0861de-5300-4aa4-a566-1433eea21c06_b7d87f77-b67d-495f-9e74-f0af3d204041",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "permFetchPropertyMetrics_permMetricPicker_widget_2b0861de-5300-4aa4-a566-1433eea21c06_b7d87f77-b67d-495f-9e74-f0af3d204041",
+                  "value": "b%3A0"
+               }
+            ],
+            "title": "Choose Metrics (Can be more than one)",
+            "type": "MetricPicker"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "autoTransitionInterval": null,
+               "customFilter": {
+                  "excludedResources": null,
+                  "filter": [],
+                  "includedResources": null
+               },
+               "depth": 1,
+               "metric": {
+                  "mode": "resourceKind",
+                  "resourceKindMetrics": [],
+                  "resourceMetrics": [],
+                  "subMode": "resourceKindAll"
+               },
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": 0},
+               "resInteractionMode": null,
+               "resource": [],
+               "selfProvider": {"selfProvider": false},
+               "title": "Rolling View Metric Chart"
+            },
+            "gridsterCoords": {
+               "h": 14,
+               "w": 6,
+               "x": 5,
+               "y": 1
+            },
+            "height": 780,
+            "id": "1d5faceb-1c58-4912-b0fb-daf098a34b3d",
+            "states": [
+               {
+                  "key": "permBtn_pan_permMetricChart_widget_2b0861de-5300-4aa4-a566-1433eea21c06_1d5faceb-1c58-4912-b0fb-daf098a34b3d",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "permDateRange_permMetricChart_widget_2b0861de-5300-4aa4-a566-1433eea21c06_1d5faceb-1c58-4912-b0fb-daf098a34b3d",
+                  "value": "s%3A%7B%22dateRange%22%3A%22dashboardTime%22%2C%22dateFrom%22%3Anull%2C%22dateTo%22%3Anull%2C%22timeFrom%22%3Anull%2C%22timeTo%22%3Anull%7D"
+               },
+               {
+                  "key": "permBtn_zoomAllGraphs_permMetricChart_widget_2b0861de-5300-4aa4-a566-1433eea21c06_1d5faceb-1c58-4912-b0fb-daf098a34b3d",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "perm_toolbarVisible_widget_2b0861de-5300-4aa4-a566-1433eea21c06_1d5faceb-1c58-4912-b0fb-daf098a34b3d",
+                  "value": "b%3A1"
+               },
+               {
+                  "key": "permMetricChart_widget_2b0861de-5300-4aa4-a566-1433eea21c06_1d5faceb-1c58-4912-b0fb-daf098a34b3d",
+                  "value": "o%3Aweight%3Dn%253A0"
+               }
+            ],
+            "title": "Rolling View Metric Chart",
+            "type": "RollingViewChart"
+         },
+         {
+            "collapsed": false,
+            "config": {},
+            "gridsterCoords": {
+               "h": 6,
+               "w": 2,
+               "x": 11,
+               "y": 1
+            },
+            "height": 324,
+            "id": "d3b5c978-e819-49c2-8ab0-c05b382622de",
+            "states": [{
+               "key": "permResourceRelationship_widget_2b0861de-5300-4aa4-a566-1433eea21c06_d3b5c978-e819-49c2-8ab0-c05b382622de",
+               "value": "o%3A"
+            }],
+            "title": "Object Relationship",
+            "type": "ResourceRelationship"
+         }
+      ]
+   }],
+   "entries": {},
+   "uuid": "f267a0ed-2957-43cc-8bd6-8fa44413ed23"
+}
